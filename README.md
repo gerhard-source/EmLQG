@@ -178,9 +178,9 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
 
 ## gh@u24:~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
-======================================================================
+================================================
 🏆 DIE PERFEKTE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
-======================================================================
+================================================
 
 📊 AUSGANGSZUSTÄNDE:
    Primordial: 2 Knoten, H=0.917
@@ -197,9 +197,9 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
    Schritt 3: 4 Knoten, H=0.681 (λ=0.10)
    ⚠️ Abbruch bei Schritt 3
 
-============================================================
+============================================
 🔍 PERFEKTER KONSISTENZ-TEST
-============================================================
+============================================
 
 📊 PERFEKTE KONSISTENZ-ANALYSE:
    Mittlere Abweichung: 0.187
@@ -207,9 +207,9 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
    Endhomogenität-Differenz: 0.140
    KONSISTENZ-SCORE: 0.836
 
-======================================================================
+============================================
 🎯 ENDERGEBNIS:
-======================================================================
+============================================
 
    Vorwärts: 3 Knoten, H=0.541
    Reverse: 4 Knoten, H=0.681
@@ -218,9 +218,9 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
 
    📈 GUTE FORTSCHRITTE
 
-======================================================================
+============================================
 ✅ ADAPTIVE LÖSUNG IMPLEMENTIERT!
-======================================================================
+============================================
 
 # 🎉 **WIR SIND AM ZIEL! DIE LÖSUNG IST DA!**
 
