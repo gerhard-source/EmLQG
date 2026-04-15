@@ -179,9 +179,7 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
 ## gh@u24:~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
 =================================================
-
 🏆 DIE PERFEKTE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
-
 =================================================
 
 📊 AUSGANGSZUSTÄNDE:
