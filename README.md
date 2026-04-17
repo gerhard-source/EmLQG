@@ -158,7 +158,7 @@ Die Frage ist also nicht, welche Theorie das "einfachere" Problem hat, sondern w
 
 Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorien stehen vor einer Hürde, die ihre volle Bestätigung bisher verhindert.
 
-## 4. Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG die Emergent Loop Gravity
+# Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG die Emergent Loop Gravity
 ### 1. **Adaptive Schrittweiten**
 
 - λ (Schrittweite) passt sich automatisch an
