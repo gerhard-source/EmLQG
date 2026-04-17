@@ -110,7 +110,7 @@ Die Interpretation dieser Feinabstimmung – ob als bloßer Zufall (im Multivers
 
 Die Welt passt also nicht "für uns", sondern wir sind das Produkt einer Welt, deren Gesetze unsere Existenz überhaupt erst ermöglichen. Dieser Unterschied ist entscheidend.
 
-# Wir haben mit der LQG und der Stringtheorie zwei gewaltige Instrumente um die Welt zu berechnen und können es trotzdem nicht tun, weil wir ein Such- und Auswahlproblem haben wegen der Überfülle der Lösungen.
+## 1. Wir haben mit der LQG und der Stringtheorie zwei gewaltige Instrumente um die Welt zu berechnen und können es trotzdem nicht tun, weil wir ein Such- und Auswahlproblem haben wegen der Überfülle der Lösungen.
 
 ## Verschwindet mit der LQG das Suchproblem in seiner gewaltigen Härte?
 **Ja, in gewisser Weise verschwindet das "Landschafts-Problem" der Stringtheorie mit der LQG tatsächlich – aber es wird durch eine andere, ebenso gewaltige Herausforderung ersetzt: das Problem der **Herleitung unserer konkreten Physik** aus den grundlegenden Prinzipien.**
