@@ -177,6 +177,7 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
 **Jetzt sollten Vorwärts und Reverse beim gleichen Punkt landen!** 🚀
 
 ## gh@u24:~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
+<img width="1400" height="997" alt="Em-Qu-Sch-Gra-cosmic" src="https://github.com/user-attachments/assets/5cfb62fe-7aea-4659-a212-60dcc9fd6ea5" />
 
 ================================================
 🏆 DIE PERFEKTE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
