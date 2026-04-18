@@ -65,7 +65,7 @@ services.google.com
 Google Quantum AI Willow Early Access Program  https://mastodon.social/@DenkRebellx/116408611258658156 Was können wir mit Qisgit tun?
 
 
-## Das Ziel soll mit Qiskit umsetzen
+## Das Ziel soll mit Qiskit erreicht werden
 
 Das Problem: „LQG erlaubt unendlich viele Anfangsbedingungen → Auswahlproblem“  
 Die Lösung: „Hybrid Quantum-Classical Approach to Identifying Life-Friendly Universes“
