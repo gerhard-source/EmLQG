@@ -721,9 +721,9 @@ spin_value = 2 * j  # Float!
 spin_value = int(2 * j)  # Integer für Binärformatierung
 ```
 
-## 🎯 Jetzt sollte dein Skript laufen
+## 🎯 Skript ausführen
 
-Führe es erneut aus:
+Führe es aus:
 ```bash
 python3 EmLQG-Quantum.py
 ```
