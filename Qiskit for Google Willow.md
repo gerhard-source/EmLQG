@@ -1,4 +1,4 @@
-# Qiskit for Google Willow  
+# Qiskit für Google Willow  
 ## Erklärung von Qiskit 
 https://github.com/Qiskit/qiskit
 
