@@ -65,7 +65,7 @@ services.google.com
 Google Quantum AI Willow Early Access Program  https://mastodon.social/@DenkRebellx/116408611258658156 Was können wir mit Qisgit tun?
 
 
-## Das Ziel ist mit Qiskit umsetzen
+## Das Ziel soll mit Qiskit umsetzen
 
 Das Problem: „LQG erlaubt unendlich viele Anfangsbedingungen → Auswahlproblem“  
 Die Lösung: „Hybrid Quantum-Classical Approach to Identifying Life-Friendly Universes“
@@ -78,13 +78,13 @@ Qiskit kann dabei auf mehreren Ebenen helfen:
 
 ### 2. **Das Landschaftsproblem effizient erkunden**
    - Verwende **Qiskit Primitives**:
-     - `Sampler`: Um aus der Überlagerung vieler LQG-Anfangsbedingungen zu „messen“ – ähnlich wie bei deinem Beispiel mit `qc.measure_all()`
-     - `Estimator`: Um Erwartungswerte deiner 5 Kosmos-Konstanten zu berechnen (z.B. „Wie wahrscheinlich ist diese Konstellation für ein lebensfreundliches Universum?“)
+     - `Sampler`: Um aus der Überlagerung vieler LQG-Anfangsbedingungen zu „messen“ – ähnlich wie bei Beispiel mit `qc.measure_all()`
+     - `Estimator`: Um Erwartungswerte von 5 Kosmos-Konstanten zu berechnen (z.B. „Wie wahrscheinlich ist diese Konstellation für ein lebensfreundliches Universum?“)
 
 ### 3. **Messgenauigkeit erhöhen (von 1% → 0,1%)**
-   - Nutze Qiskits **Fehlerminderungstechniken** (error mitigation) – besonders wichtig für dein Ziel
-   - Experimentiere mit dem **Transpiler**, um deine Schaltkreise für echte Willow-Hardware zu optimieren (Basisgates, Kopplungskarten)
-   - Verwende **mehr Qubits** für präzisere Amplitudenschätzung (weniger statistisches Rauschen)
+   - Nutzung von Qiskits **Fehlerminderungstechniken** (error mitigation)
+   - Experimentierung mit dem **Transpiler**, um die Schaltkreise für echte Willow-Hardware zu optimieren (Basisgates, Kopplungskarten)
+   - Verwendung von **mehreren Qubits** für präzisere Amplitudenschätzung (weniger statistisches Rauschen)
 
 ### 4. **Hybrider Ansatz in der Praxis**
    ```python
@@ -95,7 +95,7 @@ Qiskit kann dabei auf mehreren Ebenen helfen:
    # Beispiel: Kodiere 5 Kosmos-Konstanten als Observable
    observable = SparsePauliOp.from_list([("ZZZZZ", 1.0)])  # 5 Qubits
    
-   # Erstelle einen parametrisierten Schaltkreis für LQG-Zustände
+   # Erstellung eines parametrisierten Schaltkreises für LQG-Zustände
    qc = QuantumCircuit(5)
    # ... deine LQG-spezifischen Gates
    
@@ -330,7 +330,7 @@ if __name__ == "__main__":
     print("\n✅ Bereit für Ausführung auf Google Willow!")
 ```
 
-## Wichtige Erläuterungen zum Code
+## Erläuterungen zum Code
 
 ### 1. **Kodierung der LQG-Spins**
 Jeder Spin-Knoten wird in `log2(2j+1)` Qubits kodiert – das ist die minimale, verlustfreie Kodierung. Für `j=1/2` brauchst du 1 Qubit, für `j=1` schon 2 Qubits.
@@ -381,23 +381,23 @@ Das System hat einige echte Vorteile für die Arbeit mit Qiskit, besonders für 
 | Komponente | Deine Hardware | Vorteil für die Quantensimulation |
 | :--- | :--- | :--- |
 | **Prozessor** | AMD Ryzen 5 2600X (12 Kerne) | Perfekt für parallelisierte Simulationen. Der Qiskit Aer Simulator kann alle Kerne nutzen, um Berechnungen massiv zu beschleunigen . |
-| **Grafikkarte (GPU)** | NVIDIA GeForce RTX 3050 | **Dein größter Trumpf!** Mit dieser Karte kannst du die GPU-beschleunigte Version von Qiskit Aer nutzen. Das kann deine Simulationen um ein Vielfaches schneller machen . |
-| **Arbeitsspeicher** | 16 GB | Völlig ausreichend, um selbst komplexe Schaltkreise mit vielen Qubits zu simulieren. Als Richtwert: Mit 16 GB RAM kannst du problemlos Schaltkreise mit ca. **28-30 Qubits** simulieren . |
+| **Grafikkarte (GPU)** | NVIDIA GeForce RTX 3050 | **Dein größter Trumpf!** Mit dieser Karte kann die GPU-beschleunigte Version von Qiskit Aer nutzen. Das kann die Simulationen um ein Vielfaches schneller machen . |
+| **Arbeitsspeicher** | 16 GB | Völlig ausreichend, um selbst komplexe Schaltkreise mit vielen Qubits zu simulieren. Als Richtwert: Mit 16 GB RAM kannst man problemlos Schaltkreise mit ca. **28-30 Qubits** simulieren . |
 | **Betriebssystem** | Ubuntu 24.04 | Die ideale Plattform. GPU-Unterstützung und die Entwicklungstools sind unter Linux am besten getestet und dokumentiert . |
 
 ### Das Wichtigste zuerst: GPU-Beschleunigung aktivieren
 
-Um das volle Potenzial deiner RTX 3050 auszuschöpfen, solltest du die GPU-version von Qiskit Aer installieren. Das ist dein Schlüssel zu schnellen Ergebnissen, besonders wenn du mit der Anzahl der Qubits an die Grenzen gehst.
+Um das volle Potenzial deiner RTX 3050 auszuschöpfen, wird die GPU-version von Qiskit Aer installiert. Das ist der Schlüssel zu schnellen Ergebnissen, besonders wenn mit der Anzahl der Qubits die Grenzen erreicht werden sollen.
 
-Hier die Schritte für dein Ubuntu-System:
+Die Schritte für das Ubuntu-System:
 
 1.  **NVIDIA-Treiber & CUDA installieren:** Stelle sicher, dass die neuesten Treiber und die CUDA-Toolkit (Version 11.2 oder neuer) installiert sind. Das ist die Grundlage für die GPU-Beschleunigung .
 
-2.  **Qiskit mit GPU-Support installieren:** Öffne dein Terminal und führe diesen Befehl aus. Er installiert die spezielle Version für CUDA 12 (die aktuellste):
+2.  **Qiskit mit GPU-Support installieren:** Öffne Terminal und führe diesen Befehl aus. Er installiert die spezielle Version für CUDA 12 (die aktuellste):
     ```bash
     pip install qiskit qiskit-aer-gpu
     ```
-    *Hinweis: Solltest du CUDA 11 installiert haben, nutze stattdessen `pip install qiskit-aer-gpu-cu11`* .
+    *Hinweis: Sollte CUDA 11 installiert sein, kann `pip install qiskit-aer-gpu-cu11`genutzt werden* .
 
 ### CPU vs. GPU: Wann lohnt sich was?
 
@@ -412,18 +412,18 @@ Das ist  **besser** für das Projekt, weil man damit reproduzierbare Umgebungen 
 ### Schritt-für-Schritt:
 
 ```bash
-# 1. Stelle sicher, dass venv installiert ist
+# 1. Sicherstellung, dass venv installiert ist
 sudo apt update
 sudo apt install python3-full python3-venv
 
-# 2. Erstelle eine virtuelle Umgebung für dein EmLQG-Projekt
+# 2. Erstellung einer virtuellen Umgebung für das EmLQG-Projekt
 cd ~/Schreibtisch
 python3 -m venv emlqm_env
 
-# 3. Aktiviere die Umgebung
+# 3. Aktivierung der Umgebung
 source emlqm_env/bin/activate
 
-# Dein Prompt sollte sich jetzt zu (emlqm_env) gh@u24:... ändern
+# Das Prompt sollte sich jetzt zu (emlqm_env) gh@u24:... ändern
 
 # 4. Jetzt kannst du ganz normal pip installieren
 pip install qiskit
@@ -453,19 +453,19 @@ Du musst die virtuelle Umgebung in jedem neuen Terminal neu aktivieren:
 source ~/Schreibtisch/emlqm_env/bin/activate
 ```
 
-### 3. **Deinen Code ausführen**
+### 3. **Den Code ausführen**
 ```bash
 # In der aktiven Umgebung
 python dein_lqm_script.py
 ```
 
 ### 4. **Umgebung exportieren **
-Wenn du deine Umgebung mit anderen teilen möchtest:
+Wenn eine Umgebung mit anderen geteilt werden soll:
 ```bash
 pip freeze > requirements.txt
 ```
 
-Dann kann jeder mit `pip install -r requirements.txt` deine exakte Umgebung nachbauen.
+Dann kann jeder mit `pip install -r requirements.txt` die exakte Umgebung nachbauen.
 
 Hier ist die **korrigierte Version** deines `EmLQG-Quantum.py`:
 
