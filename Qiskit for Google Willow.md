@@ -2754,7 +2754,7 @@ Upon acceptance, we commit to:
 
 ---
 
-## 📋 **Was ich verbessert habe**
+## 📋 **Verbesserungen**
 
 | Aspekt | Deine Version | Verbesserte Version |
 |--------|---------------|---------------------|
@@ -2764,14 +2764,4 @@ Upon acceptance, we commit to:
 | **Code** | Keiner | **Funktionierender Qiskit-Code** mit Link |
 | **Visualisierung** | Keine | **5 Grafiken** erwähnt |
 | **Feasibility** | Allgemein | **Konkrete Hardware** (RTX 3050, Ubuntu) |
-
-## 🎯 **Warum diese Version besser ist**
-
-Google wird sehen:
-1. **Du hast bereits funktionierenden Code** (nicht nur Theorie)
-2. **Du hast bereits interessante Ergebnisse** (0,51% Genauigkeit bei α_s)
-3. **Du verstehst das Fine-Tuning-Problem** (1% Toleranzen)
-4. **Du bist bereit für Willow** (Code ist transpiliert)
-
-Möchtest du, dass ich noch **Antworten auf mögliche Rückfragen** von Google vorbereite? (z.B. zur Skalierbarkeit, Fehlertoleranz, oder zum Vergleich mit anderen Methoden)
 
