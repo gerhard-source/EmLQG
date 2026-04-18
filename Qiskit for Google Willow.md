@@ -104,15 +104,6 @@ Qiskit kann dabei auf mehreren Ebenen helfen:
    job = estimator.run([(qc, observable)], precision=1e-3)  # 0,1% Genauigkeit
    ```
 
-## Konkrete nächste Schritte
-
-1. **Willow-spezifische Optimierung**:  
-   Sobald du Zugang hast, nutze den **Qiskit-Transpiler**, um deine Schaltkreise auf Willows Qubit-Topologie zu mappen
-
-2. **Benchmarking**:  
-   Vergleiche klassische vs. Quanten-Ansätze zur Landschaftserkundung – das ist genau das, was Google bei Willow sehen möchte
-
-
 ## Code-Snippet, das eine LQG-Anfangsbedingung als Quantenschaltkreis kodiert
 
 **Code-Snippet**, das eine LQG-Anfangsbedingung (Spin-Netzwerk-Knoten) als Quantenschaltkreis kodiert.
