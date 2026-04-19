@@ -32,8 +32,9 @@
 > Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
 > [WIR SIND AM ZIEL! DIE LÖSUNG IST DA!]()
-> ANALYSE: WIR SEHEN DAS MUSTER!	
-> 
+> ANALYSE: WIR SEHEN DAS MUSTER!
+> 	
+> [Qiskit for Google Willow]('Qiskit for Google Willow.md')
 
 ### 1. Warum brauchen wir eine Quantengravitation?
 
