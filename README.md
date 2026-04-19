@@ -17,7 +17,7 @@
 > > 2. Die Interpretation: Das anthropische Prinzip	
 > > Kritische Einordnung der Aussage “Die Welt passt genau zum Menschen”	
 
-> > **Fazit**	
+> > [**Fazit**]()	
 > > 1. Wir haben mit der LQG und der Stringtheorie zwei gewaltige Instrumente um die Welt zu berechnen und können es trotzdem nicht tun, weil wir ein Such- und Auswahlproblem haben wegen der Überfülle der Lösungen.	
 > > Verschwindet mit der LQG das Suchproblem in seiner gewaltigen Härte?	
 > > Die Situation in der Loop-Quantengravitation (LQG): Klare Grundprinzipien, aber…
@@ -30,7 +30,7 @@
 > 3. Mehrere Versuche pro Schritt
 > Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
-> WIR SIND AM ZIEL! DIE LÖSUNG IST DA!
+> [WIR SIND AM ZIEL! DIE LÖSUNG IST DA!]()
 > ANALYSE: WIR SEHEN DAS MUSTER!	
 > 
 
