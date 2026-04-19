@@ -2,7 +2,8 @@
 **Emergent Loop Gravity**
 
 > **Inhaltsverzeichnis**
-> 
+> [**Paper: **](https://github.com/gerhard-source/EmLQG/blob/main/paper1/em-lqg2.pdf
+> )
 > 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](https://github.com/gerhard-source/EmLQG/blob/main/README.md#1-warum-brauchen-wir-eine-quantengravitation)
 > 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](https://github.com/gerhard-source/EmLQG#2-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)	
 > 3. [Die Schlüsselkonzepte im Detail](https://github.com/gerhard-source/EmLQG#3-die-schl%C3%BCsselkonzepte-im-detail)	
