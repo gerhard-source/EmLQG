@@ -17,7 +17,7 @@
 > > 2. Die Interpretation: Das anthropische Prinzip	
 > > Kritische Einordnung der Aussage “Die Welt passt genau zum Menschen”	
 
-> > [**Fazit**](https://github.com/gerhard-source/EmLQG/blob/main/README.md#fazit-lqg-f%C3%BChrt-leider-nur-zum-tausch-der-probleme)	
+> > [**Fazit LQG führt leider nur zum Tausch der Probleme**](https://github.com/gerhard-source/EmLQG/blob/main/README.md#fazit-lqg-f%C3%BChrt-leider-nur-zum-tausch-der-probleme)	
 > > 1. Wir haben mit der LQG und der Stringtheorie zwei gewaltige Instrumente um die Welt zu berechnen und können es trotzdem nicht tun, weil wir ein Such- und Auswahlproblem haben wegen der Überfülle der Lösungen.	
 > > Verschwindet mit der LQG das Suchproblem in seiner gewaltigen Härte?	
 > > Die Situation in der Loop-Quantengravitation (LQG): Klare Grundprinzipien, aber…
