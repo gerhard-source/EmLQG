@@ -2,6 +2,7 @@
 **Emergent Loop Gravity**
 
 > **Inhaltsverzeichnis**
+>
 > [**Paper: **](https://github.com/gerhard-source/EmLQG/blob/main/paper1/em-lqg2.pdf
 > )
 > 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](https://github.com/gerhard-source/EmLQG/blob/main/README.md#1-warum-brauchen-wir-eine-quantengravitation)
