@@ -6,7 +6,8 @@
 > 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](https://github.com/gerhard-source/EmLQG#5-st%C3%A4rken-und-schw%C3%A4chen-der-lqg-im-vergleich-zur-stringtheorie)
 > 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](https://github.com/gerhard-source/EmLQG#2-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)	
 > 3. [Die Schlüsselkonzepte im Detail]()	
-> > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)	
+> > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)
+> 	
 > > b) Die Spin-Schaum-Zustände (Die Dynamik der Raumzeit)	
 > 4. [Wichtige Vorhersagen und Konsequenzen der LQG]()	
 > 5. [Stärken und Schwächen der LQG im Vergleich zur Stringtheorie]()	
