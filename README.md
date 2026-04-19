@@ -3,7 +3,7 @@
 
 > **Inhaltsverzeichnis**
 > 
-> 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](./### '1. Warum brauchen wir eine Quantengravitation?')	
+> 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](### '1. Warum brauchen wir eine Quantengravitation?')	
 > 2. Der zentrale Ansatz der Loop Quantum Gravity (LQG)	
 > 3. Die Schlüsselkonzepte im Detail	
 > > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)	
@@ -33,7 +33,8 @@
 > ANALYSE: WIR SEHEN DAS MUSTER!	
 > 
 
-### [1. Warum brauchen wir eine Quantengravitation?](.)
+### [1. Warum brauchen wir eine Quantengravitation?]()
+
 * **Allgemeine Relativitätstheorie (ART):** Beschreibt die Gravitation als Krümmung der Raumzeit selbst. Masse und Energie verformen die Raumzeit, und diese Verformung diktiert, wie sich Objekte bewegen. Die ART ist auf großen Skalen (Sterne, Galaxien, das Universum) brillant.
 * **Quantenmechanik (QM):** Beschreibt die Welt der kleinsten Teilchen in Begriffen von Wahrscheinlichkeiten, Unschärfen und Quantensprüngen. Sie ist auf kleinen Skalen (Atome, subatomare Teilchen) brillant.
 
