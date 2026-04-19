@@ -3,13 +3,13 @@
 
 > **Inhaltsverzeichnis**
 > 
-> 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](~/#1.warum-brauchen-wir-eine-quantengravitation)
-> 2. Der zentrale Ansatz der Loop Quantum Gravity (LQG)	
-> 3. Die Schlüsselkonzepte im Detail	
+> 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](https://github.com/gerhard-source/EmLQG#5-st%C3%A4rken-und-schw%C3%A4chen-der-lqg-im-vergleich-zur-stringtheorie)
+> 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](https://github.com/gerhard-source/EmLQG#2-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)	
+> 3. [Die Schlüsselkonzepte im Detail]()	
 > > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)	
 > > b) Die Spin-Schaum-Zustände (Die Dynamik der Raumzeit)	
-> 4. Wichtige Vorhersagen und Konsequenzen der LQG	
-> 5. Stärken und Schwächen der LQG im Vergleich zur Stringtheorie	
+> 4. [Wichtige Vorhersagen und Konsequenzen der LQG]()	
+> 5. [Stärken und Schwächen der LQG im Vergleich zur Stringtheorie]()	
 > > **Zusammenfassung**
 > > Josef Gassner impliziert in einem Vortrag über das anthroposophische Prinzip, dass die Physiker genau wüssten, aus welchem astronomischen Sternenstadium, physikalischen Naturkonstanten die chemischen Elemente hervorgegangen sind und dass wir in einer Welt leben, die genau zum Menschen passt.	
 > > 1. Das harte, belegte Faktenwissen: Die Entstehung der Elemente (Nukleosynthese)	
@@ -23,7 +23,7 @@
 > > Die neue, gewaltige Härte: Der Emergenz-Prozess
 > > **Fazit: LQG führt leider nur zum Tausch der Probleme**
 	
-> **Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG, die Emergent Loop Gravity**	
+> [**Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG, die Emergent Loop Gravity**]()	
 > 1. Adaptive Schrittweiten	
 > 2. Ziel-Homogenität = 0.68	
 > 3. Mehrere Versuche pro Schritt
