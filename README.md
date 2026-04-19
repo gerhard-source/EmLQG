@@ -216,7 +216,6 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
 
 🏆 DIE PERFEKTE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
 
-================================================
 <img width="1400" height="997" alt="Em-Qu-Sch-Gra-cosmic_korr" src="https://github.com/user-attachments/assets/8036459c-7065-43cd-96e7-5f622821c562" />
 
 📊 AUSGANGSZUSTÄNDE:
@@ -250,12 +249,12 @@ Beide Wege sind monumental und die Antwort ist noch völlig offen. Beide Theorie
 
  ENDERGEBNIS:
 
-============================================
-
    Vorwärts: 3 Knoten, H=0.541
    Reverse: 4 Knoten, H=0.681
    Homogenitäts-Differenz: 0.140
    Konsistenz-Score: 0.836
+
+============================================
 
    📈 GUTE FORTSCHRITTE
 
