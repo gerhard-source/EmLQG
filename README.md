@@ -17,14 +17,14 @@
 > > 2. Die Interpretation: Das anthropische Prinzip	
 > > Kritische Einordnung der Aussage “Die Welt passt genau zum Menschen”	
 
-> > [**Fazit**]()	
+> > [**Fazit**](https://github.com/gerhard-source/EmLQG/blob/main/README.md#fazit-lqg-f%C3%BChrt-leider-nur-zum-tausch-der-probleme)	
 > > 1. Wir haben mit der LQG und der Stringtheorie zwei gewaltige Instrumente um die Welt zu berechnen und können es trotzdem nicht tun, weil wir ein Such- und Auswahlproblem haben wegen der Überfülle der Lösungen.	
 > > Verschwindet mit der LQG das Suchproblem in seiner gewaltigen Härte?	
 > > Die Situation in der Loop-Quantengravitation (LQG): Klare Grundprinzipien, aber…
 > > Die neue, gewaltige Härte: Der Emergenz-Prozess
 > > **Fazit: LQG führt leider nur zum Tausch der Probleme**
 	
-> [**Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG, die Emergent Loop Gravity**]()	
+> [**Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG, die Emergent Loop Gravity**](https://github.com/gerhard-source/EmLQG/blob/main/README.md#unsere-l%C3%B6sung-f%C3%BCr-das-auswahlproblem-f%C3%BCr-die-lqg-ist-emlqg-die-emergent-loop-gravity)	
 > 1. Adaptive Schrittweiten	
 > 2. Ziel-Homogenität = 0.68	
 > 3. Mehrere Versuche pro Schritt
