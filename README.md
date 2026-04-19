@@ -3,11 +3,10 @@
 
 > **Inhaltsverzeichnis**
 > 
-> 1. Das Grundproblem: Warum brauchen wir eine Quantengravitation?
+> 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](./### '1. Warum brauchen wir eine Quantengravitation?')	
 > 2. Der zentrale Ansatz der Loop Quantum Gravity (LQG)	
 > 3. Die Schlüsselkonzepte im Detail	
-> > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)
-> > 	
+> > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)	
 > > b) Die Spin-Schaum-Zustände (Die Dynamik der Raumzeit)	
 > 4. Wichtige Vorhersagen und Konsequenzen der LQG	
 > 5. Stärken und Schwächen der LQG im Vergleich zur Stringtheorie	
