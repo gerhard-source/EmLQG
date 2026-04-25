@@ -3,7 +3,7 @@
 
 > **Inhaltsverzeichnis**
 >
-> [**Paper: Das Auswahlproblem der Schleifenquantengravitation - Gelöst durch Reverse-Simulation**](https://github.com/gerhard-source/EmLQG/blob/main/paper1/em-lqg2.pdf
+> [**Paper: Das Auswahlproblem der Schleifenquantengravitation**](https://github.com/gerhard-source/EmLQG/blob/main/paper1/em-lqg2.pdf
 > )
 > 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](https://github.com/gerhard-source/EmLQG/blob/main/README.md#1-warum-brauchen-wir-eine-quantengravitation)
 > 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](https://github.com/gerhard-source/EmLQG#2-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)	
