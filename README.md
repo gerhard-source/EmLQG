@@ -4,7 +4,7 @@
 > **Inhaltsverzeichnis**
 
 > 1. [Das Grundproblem: Warum brauchen wir eine Quantengravitation?](https://github.com/gerhard-source/EmLQG/blob/main/Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md)
-> 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](https://github.com/gerhard-source/EmLQG#2-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)	
+> 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](https://github.com/gerhard-source/EmLQG/blob/main/Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#1-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)	
 > 3. [Die Schlüsselkonzepte im Detail](https://github.com/gerhard-source/EmLQG#3-die-schl%C3%BCsselkonzepte-im-detail)	
 > > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)
 > 	
