@@ -15,9 +15,9 @@
 - 3 Versuche für beste Homogenitäts-Verbesserung
 - Optimale Pfadfindung
 
-**Jetzt sollten Vorwärts und Reverse beim gleichen Punkt landen!** 
+**Jetzt landen Vorwärts und Reverse beim gleichen Punkt!** 
 
-## ~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
+## Ergebnisse der Simaulation von ~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
 ### DIE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
 
