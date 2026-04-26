@@ -21,7 +21,7 @@
 
 ### DIE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
 
-📊 AUSGANGSZUSTÄNDE:
+AUSGANGSZUSTÄNDE:
    Primordial: 2 Knoten, H=0.917
    Heute: 6 Knoten, H=0.685
 
@@ -34,7 +34,7 @@ Reverse: 6 → Ziel: 3 Knoten, H=0.680
    Schritt 1: 6 Knoten, H=0.685 (λ=0.10)
    Schritt 2: 5 Knoten, H=0.678 (λ=0.10)
    Schritt 3: 4 Knoten, H=0.681 (λ=0.10)
-   ⚠️ Abbruch bei Schritt 3
+    Abbruch bei Schritt 3
 
 PERFEKTE KONSISTENZ-ANALYSE:
    Mittlere Abweichung: 0.187
