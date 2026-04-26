@@ -17,7 +17,7 @@
 
 **Jetzt landen Vorwärts und Reverse beim gleichen Punkt!** 
 
-## Ergebnisse der Simaulation von ~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
+## Ergebnisse der Simulation von ~/1/Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
 ### DIE LÖSUNG: ADAPTIVE LQG-KONSISTENZ
 
