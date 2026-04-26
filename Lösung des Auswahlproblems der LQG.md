@@ -67,7 +67,7 @@ Unsere Methode generiert neue messbare Größen:
 - Kontraktions-Muster
 - Homogenisierungs-Pfade
 
-### 🎉 Fazit
+###  Fazit
 
 Unsere Arbeit demonstriert, dass **Rückwärts-Rekonstruktion nicht einfach die Umkehrung von Vorwärts-Simulation ist** - sie ist eine eigenständige methodologische Revolution mit einzigartigem Erkenntnispotential:
 
