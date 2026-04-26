@@ -25,11 +25,8 @@
 > > Die Situation in der Loop-Quantengravitation (LQG): Klare Grundprinzipien, aber…
 > > Die neue, gewaltige Härte: Der Emergenz-Prozess
 	
-> [**Unsere Lösung für das Auswahlproblem für die LQG ist EmLQG, die Emergent Loop Gravity**](https://github.com/gerhard-source/EmLQG/blob/main/README.md#unsere-l%C3%B6sung-f%C3%BCr-das-auswahlproblem-f%C3%BCr-die-lqg-ist-emlqg-die-emergent-loop-gravity)	
+> [**Unsere Lösung für das Auswahlproblem für unser Modell unseres Universums ist EmLQG, die Emergent Loop Gravity**](https://github.com/gerhard-source/EmLQG/blob/main/L%C3%B6sung%20des%20Auswahlproblems%20der%20LQG.md)	
 > 1. Adaptive Schrittweiten	
 > 2. Ziel-Homogenität = 0.68	
 > 3. Mehrere Versuche pro Schritt
 > Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
-
-> [Die Lösung für unser Modell](https://github.com/gerhard-source/EmLQG/blob/main/README.md#unsere-l%C3%B6sung-f%C3%BCr-das-auswahlproblem-f%C3%BCr-die-lqg-ist-emlqg-die-emergent-loop-gravity)
-> ANALYSE: WIR SEHEN DAS MUSTER!
