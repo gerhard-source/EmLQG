@@ -9,7 +9,7 @@
 > > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)
 > 	
 > > b) Die Spin-Schaum-Zustände (Die Dynamik der Raumzeit)	
-> 4. [Wichtige Vorhersagen und Konsequenzen der LQG](https://github.com/gerhard-source/EmLQG#4-wichtige-vorhersagen-und-konsequenzen-der-lqg)	
+> 4. [Wichtige Vorhersagen und Konsequenzen der LQG](https://github.com/gerhard-source/EmLQG/blob/main/Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#3-wichtige-vorhersagen-und-konsequenzen-der-lqg)	
 > 5. [Stärken und Schwächen der LQG im Vergleich zur Stringtheorie](https://github.com/gerhard-source/EmLQG#5-st%C3%A4rken-und-schw%C3%A4chen-der-lqg-im-vergleich-zur-stringtheorie)	
 > > **Zusammenfassung**
 > > Josef Gassner impliziert in einem Vortrag über das anthroposophische Prinzip, dass die Physiker genau wüssten, aus welchem astronomischen Sternenstadium, physikalischen Naturkonstanten die chemischen Elemente hervorgegangen sind und dass wir in einer Welt leben, die genau zum Menschen passt.	
