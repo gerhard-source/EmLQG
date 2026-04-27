@@ -10,7 +10,7 @@
 > 	
 > > b) Die Spin-Schaum-Zustände (Die Dynamik der Raumzeit)	
 > 4. [Wichtige Vorhersagen und Konsequenzen der LQG](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#3-wichtige-vorhersagen-und-konsequenzen-der-lqg)	
-> 5. [Stärken und Schwächen der LQG im Vergleich zur Stringtheorie](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#5-st%C3%A4rken-und-schw%C3%A4chen-der-lqg-im-vergleich-zur-stringtheorie)	
+> 5. [Stärken und Schwächen der LQG im Vergleich zur Stringtheorie](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#4-st%C3%A4rken-und-schw%C3%A4chen-der-lqg-im-vergleich-zur-stringtheorie)	
 > > **Zusammenfassung**
 > > Josef Gassner impliziert in einem Vortrag über das anthroposophische Prinzip, dass die Physiker genau wüssten, aus welchem astronomischen Sternenstadium, physikalischen Naturkonstanten die chemischen Elemente hervorgegangen sind und dass wir in einer Welt leben, die genau zum Menschen passt.	
 > > 1. Das harte, belegte Faktenwissen: Die Entstehung der Elemente (Nukleosynthese)	
