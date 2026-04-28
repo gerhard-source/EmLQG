@@ -60,8 +60,7 @@ Weil die Raumzeit gequantelt ist, ergeben sich faszinierende Konsequenzen:
 
 Die **Quanten-Schleifen-Gravitation (LQG)** ist eine Theorie, die besagt, dass die Raumzeit auf der allerkleinsten Skala (der Planck-Skala) nicht kontinuierlich, sondern aus diskreten, gequantelten Einheiten besteht, die durch sich entwickelnde Netzwerke (Spin-Netzwerke und Spin-Schäume) beschrieben werden, um so eine Vereinigung von Allgemeiner Relativitätstheorie und Quantenmechanik zu erreichen.
 
-## Josef Gassner impliziert in einem Vortrag über das anthroposophische Prinzip, dass die Physiker genau wüssten, aus welchem astronomischen Sternenstadium, physikalischen Naturkonstanten die chemischen Elemente hervorgegangen sind und dass wir in einer Welt leben, die genau zum Menschen passt.
-
+## Josef Gassner impliziert in einem Vortrag über das anthroposophische Prinzip, dass die Welt genau zum Menschen passt.
 Diese Aussage fasst die Grundidee des **anthropischen Prinzips** sehr gut zusammen, wie es oft von Wissenschaftlern wie Josef Gaßner (und vielen anderen) popularisiert wird. Lassen Sie uns das genauer aufschlüsseln, um zu verstehen, was auf soliden wissenschaftlichen Füßen steht und wo die philosophische Interpretation beginnt.
 
 ### 1. Das harte, belegte Faktenwissen: Die Entstehung der Elemente (Nukleosynthese)
