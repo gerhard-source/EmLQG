@@ -40,4 +40,4 @@
 
 >**Das muss nun noch für die echte LQG gezeigt werden.
 
->>[ **Universality-Test: Ist der Urknall ein universeller Attraktor?**](./ModellLQGDynamik/Modell_der_LQG-Dynamik.md##'Universality-Test: Ist der Urknall ein universeller Attraktor?')
+>>[ **Universality-Test: Ist der Urknall ein universeller Attraktor?**]()
