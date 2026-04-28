@@ -35,9 +35,9 @@
 >[**UNSERE BEWERBUNG FÜR DAS GOOGLE WILLOW EARLY ACCESS PROGRAMM**](./Qiskit%20for%20Google%20Willow.md#unsere-bewerbung-f%C3%BCr-das-google-willow-early-access-programm)
 
 >[**Modell der LQG-Dynamik**](https://github.com/gerhard-source/EmLQG/blob/main/ModellLQGDynamik/Modell_der_LQG-Dynamik.md#universality-test-ist-der-urknall-ein-universeller-attraktor
-**Erst wenn diese universelle Metrik für zufällige Netzwerke die gleiche Konvergenz zeigt, haben wir das Fine-Tuning-Problem gelöst.**)
+>**Erst wenn diese universelle Metrik für zufällige Netzwerke die gleiche Konvergenz zeigt, haben wir das Fine-Tuning-Problem gelöst.**)
 >
-**Hypothese:** Wenn die echte LQG ähnliche Eigenschaften hat (insbesondere: eine Homogenitäts-Metrik mit einem Fixpunkt), dann wäre das Fine-Tuning-Problem tatsächlich gelöst – nicht durch Auswahl, sondern durch **dynamische Anziehung**.
+>**Hypothese:** Wenn die echte LQG ähnliche Eigenschaften hat (insbesondere: eine Homogenitäts-Metrik mit einem Fixpunkt), dann wäre das Fine-Tuning-Problem tatsächlich gelöst – nicht durch Auswahl, sondern durch **dynamische Anziehung**.
 
 >**Das muss nun noch für die echte LQG gezeigt werden.
 
