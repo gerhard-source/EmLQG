@@ -17,7 +17,7 @@
 > > 2. Die Interpretation: Das anthropische Prinzip	
 > > Kritische Einordnung der Aussage “Die Welt passt genau zum Menschen”	
 
-> > [**Fazit: LQG führt leider nur zum Tausch der Probleme**](/Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#fazit-lqg-f%C3%BChrt-leider-nur-zum-tausch-der-probleme)	
+> > [**Fazit: LQG führt leider nur zum Tausch der Probleme**](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#fazit-lqg-f%C3%BChrt-leider-nur-zum-tausch-der-probleme)	
 > > 1. Wir haben mit der LQG und der Stringtheorie zwei gewaltige Instrumente um die Welt zu berechnen und können es trotzdem nicht tun, weil wir ein Such- und Auswahlproblem haben wegen der Überfülle der Lösungen.	
 > > Verschwindet mit der LQG das Suchproblem in seiner gewaltigen Härte?	
 > > Die Situation in der Loop-Quantengravitation (LQG): Klare Grundprinzipien, aber…
@@ -32,4 +32,12 @@
 > [**Paper: Das Auswahlproblem der Schleifenquantengravitation**](./paper1/em-lqg2.pdf
 > )
 
->[**UNSERE BEWERBUNG FÜR DAS GOOGLE WILLOW EARLY ACCESS PROGRAMM**](https://github.com/gerhard-source/EmLQG/blob/main/Qiskit%20for%20Google%20Willow.md#unsere-bewerbung-f%C3%BCr-das-google-willow-early-access-programm)
+>[**UNSERE BEWERBUNG FÜR DAS GOOGLE WILLOW EARLY ACCESS PROGRAMM**](./Qiskit%20for%20Google%20Willow.md#unsere-bewerbung-f%C3%BCr-das-google-willow-early-access-programm)
+
+>[**Modell der LQG-Dynamik**](./ModellLQGDynamik/Modell_der_LQG-Dynamik.md)
+**Erst wenn diese universelle Metrik für zufällige Netzwerke die gleiche Konvergenz zeigt, haben wir das Fine-Tuning-Problem gelöst.**
+**Hypothese:** Wenn die echte LQG ähnliche Eigenschaften hat (insbesondere: eine Homogenitäts-Metrik mit einem Fixpunkt), dann wäre das Fine-Tuning-Problem tatsächlich gelöst – nicht durch Auswahl, sondern durch **dynamische Anziehung**.
+
+>**Das muss nun noch für die echte LQG gezeigt werden.
+
+>>[ **Universality-Test: Ist der Urknall ein universeller Attraktor?**](./ModellLQGDynamik/Modell_der_LQG-Dynamik.md##'Universality-Test: Ist der Urknall ein universeller Attraktor?')
