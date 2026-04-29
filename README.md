@@ -49,7 +49,7 @@
 
 > > [ **Universality-Test: Ist der Urknall ein universeller Attraktor?**](./ModellLQGDynamik/Modell_der_LQG-Dynamik.md#universality-test-ist-der-urknall-ein-universeller-attraktor)
 
-> > Prüfung, um **ob die Hypothese hält**.
+> > Prüfung, **ob die Hypothese hält**.
 
 > > **Was dieser Test prüft**
 
