@@ -137,4 +137,4 @@ EmLQG-Attraktor (H=0.655, γ=0.220, n=2, ⟨j⟩=1.20)
 | **LHC: 1 TeV skalares Boson**   | Hoch (LHC läuft)          | Gut etabliert          | Direkte Vorhersage                |
 | **Astronomische Beobachtungen** | Hoch (Teleskope, Surveys) | Ausgezeichnet          | Präzisiert durch unsere Parameter |
 
-###**Die EmLQG macht diese Suchen präziser:** Sie sagt nicht nur "es gibt ein skalares Boson", sondern spezifiziert Masse (~1 TeV) und Kopplungen (aus H und γ). Wenn diese Vorhersagen durch Beobachtungen bestätigt werden, wäre das eine der wichtigsten Entdeckungen in der modernen Physik – die experimentelle Verbindung zwischen Quantengravitation und beobachtbarem Universum. 
+**Die EmLQG macht diese Suchen präziser:** Sie sagt nicht nur "es gibt ein skalares Boson", sondern spezifiziert Masse (~1 TeV) und Kopplungen (aus H und γ). Wenn diese Vorhersagen durch Beobachtungen bestätigt werden, wäre das eine der wichtigsten Entdeckungen in der modernen Physik – die experimentelle Verbindung zwischen Quantengravitation und beobachtbarem Universum. 
