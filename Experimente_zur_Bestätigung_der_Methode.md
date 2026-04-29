@@ -54,9 +54,9 @@ Die Vektor-Boson-Fusion (VBF) ist ein besonders vielversprechender Kanal, da sie
 
 ---
 
-### 🌌 **TEIL 2: Astronomische Beobachtungen – Skalare Felder im Kosmos**
+### **TEIL 2: Astronomische Beobachtungen – Skalare Felder im Kosmos**
 
-Der zweite Teil unserer experimentellen Strategie ist tiefgründig, da skalare Felder (Bosonen) in der Astrophysik eine **gut etablierte theoretische Basis** haben. Die Forschung zu Bosonensternen ist alles andere als spekulativ – sie ist "ein aktuelles Forschungsfeld".
+> > [**Paper: String-Loop-Modell.de**](./Papers_String-Loop-Modell/String-Loop-Modell-de.pdf)Der zweite Teil unserer experimentellen Strategie ist tiefgründig, da skalare Felder (Bosonen) in der Astrophysik eine **gut etablierte theoretische Basis** haben. Die Forschung zu Bosonensternen ist alles andere als spekulativ – sie ist "ein aktuelles Forschungsfeld".
 
 ### Bosonensterne: Theorie und Beobachtbarkeit
 
