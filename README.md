@@ -8,7 +8,7 @@
 > 2. [Der zentrale Ansatz der Loop Quantum Gravity (LQG)](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#1-der-zentrale-ansatz-der-loop-quantum-gravity-lqg)    
 > 3. [Die Schlüsselkonzepte im Detail](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#2-die-schl%C3%BCsselkonzepte-im-detail)    
 >    
->    > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)
+> > a) Der Spin-Netzwerk-Zustand (Die “Momentaufnahme” des Raums)
 > 
 > > b) Die Spin-Schaum-Zustände (Die Dynamik der Raumzeit)    
 > > 4. [Wichtige Vorhersagen und Konsequenzen der LQG](./Warum%20brauchen%20wir%20eine%20Quantengravitation%3F.md#3-wichtige-vorhersagen-und-konsequenzen-der-lqg)    
