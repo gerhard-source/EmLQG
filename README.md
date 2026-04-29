@@ -64,5 +64,5 @@
 >>[**Paper: String-Loop-Modell.en**](./Papers_String-Loop-Modell/String-Loop-Modell-en.pdf)
 
 
->[**Experimente zur Bestätigung der Methode zur Pfadbestimmung in Spin-Netzwerken**](./Experimente_zur_Bestätigung_der_Methode.md)
+>[**Experimente zur Methode**](./Experimente_zur_Bestätigung_der_Methode.md)
 
