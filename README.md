@@ -1,5 +1,5 @@
 # EmLQG
-**Emergent-Loop-Quanten-Gravity**
+**Emergent-Loop-Quantum-Gravity**
 
 > **Inhaltsverzeichnis**
 
