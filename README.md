@@ -28,7 +28,7 @@
 > 3. Mehrere Versuche pro Schritt
 > Em-Quanten-Schleifen-Gravitation/scripts$ python3 8_Em-Qu-Sch-Grafitation.py
 
-> [**Paper: Das Auswahlproblem der Schleifenquantengravitation**](./paper1/em-lqg2.pdf
+> [**Paper: Das Auswahlproblem der Schleifenquantengravitation**](./paper_auswahlproblem/em-lqg2.pdf
 > )
 
 >[**UNSERE BEWERBUNG FÜR DAS GOOGLE WILLOW EARLY ACCESS PROGRAMM**](./Qiskit%20for%20Google%20Willow.md#unsere-bewerbung-f%C3%BCr-das-google-willow-early-access-programm)
